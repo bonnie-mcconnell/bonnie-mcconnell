@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi, I'm Bonnie McConnell
 
-<!--
-**bonnie-mcconnell/bonnie-mcconnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS + Statistics double major at Massey University, New Zealand.
+Second year. Building things to understand them.
 
-Here are some ideas to get you started:
+I'm interested in the space between rigorous statistical thinking and
+software engineering - ML infrastructure, ranking systems, quantitative
+methods, and systems that can explain what they're doing and why.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm working on:**
+- [`adaptive-autocomplete`](https://github.com/bonnie-mcconnell/adaptive-autocomplete) — a ranking and suggestion engine built from scratch, with explainability built in from the start
+- [`model_monitor`](https://github.com/bonnie-mcconnell/model_monitor) — production-style ML monitoring with drift detection, trust scoring, and safe model promotion
+
+**Background:**
+Python is my main language. I use R for statistics work.
+Comfortable with: NumPy, Pandas, FastAPI, PyTorch basics, Poetry, Git.
+Currently learning: systems design, distributed systems fundamentals, quantitative methods.
+
+**Degree:**
+BSc Computer Science + Statistics, Massey University (2024–2027)
+GPA: 9.0/9.0 
+
+Open to internship opportunities in NZ, AU, or remote - summer 2025/26.
+
+---
+
+[LinkedIn](https://linkedin.com/in/bonniemcconnell) · bonniep.mcconnell@gmail.com
