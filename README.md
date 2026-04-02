@@ -12,7 +12,7 @@ methods, and systems that can explain what they're doing and why.
 - [`model_monitor`](https://github.com/bonnie-mcconnell/model_monitor) - production-style ML monitoring with drift detection, trust scoring, and safe model promotion
 
 **Background:**
-Python is my main language. I use R for statistics work.
+Python is my main language. I use R for statistics work, and have experience with C++, Typescript and Java.
 Comfortable with: NumPy, Pandas, FastAPI, PyTorch basics, Poetry, Git.
 Currently learning: systems design, distributed systems fundamentals, quantitative methods.
 
