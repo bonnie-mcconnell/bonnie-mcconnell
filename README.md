@@ -18,7 +18,7 @@ Currently learning: systems design, distributed systems fundamentals, quantitati
 
 **Degree:**
 BSc Computer Science + Statistics, Massey University (2025–2027)
-GPA: 9.0/9.0 
+GPA: 9.0/9.0
 
 Open to internship opportunities in NZ, AU, or remote - summer 2026/27.
 
