@@ -3,7 +3,7 @@
 CS + Statistics double major at Massey University, New Zealand.
 In my second year and building things to understand them.
 
-I'm interested in the intersection between statistical thinking and
+I'm interested in the combination of statistical thinking and
 software engineering: ML infrastructure, ranking systems, quantitative
 methods, and systems that can explain what they're doing and why.
 
